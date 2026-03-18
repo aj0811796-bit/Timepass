@@ -1,0 +1,10 @@
+kurigram
+motor
+pillow
+imagehash
+cachetools
+dnspython
+aiohttp
+requests
+python-dotenv
+pyfiglet
